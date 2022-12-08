@@ -16,7 +16,7 @@ int main()
 {
     ifstream file;
     ofstream file2;
-    file.open("co.txt");
+    file.open("exit.txt");
     file2.open("outit.txt");
     int l1,l2;
     if (file.good())
